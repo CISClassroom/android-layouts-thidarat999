@@ -11,8 +11,6 @@ class ConstrantActivity : AppCompatActivity() {
         setContentView(R.layout.activity_constrant)
 
 
-        button3.setOnClickListener {
-            this.finish() //จบการทำงานเคลียร์ทุกหน้าออก
-        }
+
     }
 }
